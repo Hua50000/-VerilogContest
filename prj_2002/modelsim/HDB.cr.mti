@@ -1,0 +1,132 @@
+F:/prj/prjHDB/src/check_v.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/check_v.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module check_v
+
+Top level modules:
+	check_v
+
+} {} {}} F:/prj/prjHDB/src/craet_v.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/craet_v.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module creat_v
+
+Top level modules:
+	creat_v
+
+} {} {}} F:/prj/prjHDB/testbench/clk_divider_tb.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/testbench/clk_divider_tb.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module clk_divider_tb
+
+Top level modules:
+	clk_divider_tb
+
+} {} {}} F:/prj/prjHDB/testbench/encode_top_tb.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/testbench/encode_top_tb.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module encode_top_tb
+
+Top level modules:
+	encode_top_tb
+
+} {} {}} F:/prj/prjHDB/src/signal_add.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/signal_add.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module signal_add
+
+Top level modules:
+	signal_add
+
+} {} {}} F:/prj/prjHDB/src/trans.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/trans.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module trans
+
+Top level modules:
+	trans
+
+} {} {}} F:/prj/prjHDB/testbench/tb_add_remove_v.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/testbench/tb_add_remove_v.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module tb_add_remove_v
+
+Top level modules:
+	tb_add_remove_v
+
+} {} {}} F:/prj/prjHDB/testbench/m_sequence_tb.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/testbench/m_sequence_tb.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module m_sequence_tb
+
+Top level modules:
+	m_sequence_tb
+
+} {} {}} F:/prj/prjHDB/src/remove_v_b.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/remove_v_b.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module remove_v_b
+
+Top level modules:
+	remove_v_b
+
+} {} {}} F:/prj/prjHDB/testbench/HDB3_creat_tb.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/testbench/HDB3_creat_tb.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module HDB3_creat_tb
+
+Top level modules:
+	HDB3_creat_tb
+
+} {} {}} F:/prj/prjHDB/src/bit_change.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/bit_change.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module bit_change
+
+Top level modules:
+	bit_change
+
+} {} {}} F:/prj/prjHDB/src/change_pole.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/change_pole.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module change_pole
+
+Top level modules:
+	change_pole
+
+} {} {}} F:/prj/prjHDB/src/m_sequence.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/m_sequence.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module m_sequence
+
+Top level modules:
+	m_sequence
+
+} {} {}} F:/prj/prjHDB/src/decode_top.v {0 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/decode_top.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module decode_top
+** Error (suppressible): F:/prj/prjHDB/src/decode_top.v(20): (vlog-2388) 'out_wave' already declared in this scope (decode_top) at F:/prj/prjHDB/src/decode_top.v(7).
+
+} {} {}} F:/prj/prjHDB/src/HDB3_creat.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/HDB3_creat.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module HDB3_creat
+
+Top level modules:
+	HDB3_creat
+
+} {} {}} F:/prj/prjHDB/src/clk_divider.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/clk_divider.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module clk_divider
+
+Top level modules:
+	clk_divider
+
+} {} {}} F:/prj/prjHDB/src/creat_b.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/creat_b.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module creat_b
+
+Top level modules:
+	creat_b
+
+} {} {}} F:/prj/prjHDB/src/encode_top.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/src/encode_top.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module encode_top
+
+Top level modules:
+	encode_top
+
+} {} {}} F:/prj/prjHDB/testbench/decode_tb.v {1 {vlog -work work -vopt -stats=none F:/prj/prjHDB/testbench/decode_tb.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module decode_tb
+
+Top level modules:
+	decode_tb
+
+} {} {}}
